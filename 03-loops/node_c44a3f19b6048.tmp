@@ -1,0 +1,4 @@
+let sum = 0;
+for (sum = 1; sum =50; sum++) {
+    console.log(sum)
+}
