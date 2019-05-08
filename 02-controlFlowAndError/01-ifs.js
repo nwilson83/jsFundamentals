@@ -3,7 +3,7 @@
 let isOn = true;
 
 if (isOn == true) {
-    console.log('The light is on!')
+    Console.log('The light is on!')
 };
 let isON = true
 if (isON) {
@@ -82,3 +82,5 @@ if (age >= 25) {
 } else {
     console.log('Sorry, you cannot do anything fun');
 }
+
+
