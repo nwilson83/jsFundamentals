@@ -41,3 +41,7 @@ console.log(today, elevenfifty)
 
 elevenfifty = 'Super';
 console.log(today, elevenfifty);
+
+function whatDoesItDo(val) {
+    return val ? 1 : 2;
+  }; 
